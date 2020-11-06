@@ -1,4 +1,4 @@
-name: qe-mini-example
+name: System-Dynamics-Textbook
 channels:
   - default
 dependencies:
@@ -6,7 +6,11 @@ dependencies:
   - sphinx=2.4.4
   - pip
   - pandas
+  - scipy
+  - numpy
   - matplotlib
+  - plotly
+  - notebook
   - pip:
     - quantecon
     - jupyter-book
