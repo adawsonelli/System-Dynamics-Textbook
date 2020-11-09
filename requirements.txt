@@ -1,4 +1,5 @@
 sphinx
 pandas
+numpy
 matplotlib
 jupyter-book
