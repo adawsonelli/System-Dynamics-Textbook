@@ -1,4 +1,4 @@
-name: System-Dynamics-Textbook
+name: SD_Textbook
 channels:
   - default
 dependencies:
@@ -9,8 +9,6 @@ dependencies:
   - scipy
   - numpy
   - matplotlib
-  - plotly
   - notebook
   - pip:
-    - quantecon
     - jupyter-book
